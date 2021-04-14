@@ -18,7 +18,6 @@
     
   </div>
 </template>
-<script src="http://localhost:8098"></script>
 <script>
 
 import Header from './components/Header.vue'
